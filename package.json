@@ -1,0 +1,16 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open",
+    "open-cypress": "cypress open"
+  },
+  "author": "Mateus Sagas",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.6.3",
+    "global": "^4.4.0"
+  }
+}
